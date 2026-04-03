@@ -2,8 +2,8 @@
 
 > Transform your data into beautiful images and PDFs with a simple API call
 
-[![Website](https://img.shields.io/badge/Website-templateson.com-blue)](https://templateson.com)
-[![Documentation](https://img.shields.io/badge/Docs-API%20Guide-green)](https://templateson.com/docs)
+[![Website](https://img.shields.io/badge/Website-templateson.com-blue)](https://templateson.com?ref=github&utm_source=github&utm_medium=readme&utm_campaign=badge)
+[![Documentation](https://img.shields.io/badge/Docs-API%20Guide-green)](https://templateson.com/docs?ref=github&utm_source=github&utm_medium=readme&utm_campaign=badge)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 🚀 What is Templates On?
@@ -39,7 +39,7 @@ Templates On is a powerful **image generation API** and **PDF generation API** t
 
 ### 1. Sign Up
 
-Create a free account at [templateson.com](https://templateson.com)
+Create a free account at [templateson.com](https://templateson.com?ref=github&utm_source=github&utm_medium=readme&utm_campaign=getting_started)
 
 ### 2. Create a Template (Optional)
 
@@ -50,7 +50,7 @@ You can either:
 
 ### 3. Get Your API Key
 
-1. Navigate to your [API Keys page](https://templateson.com/app/keys)
+1. Navigate to your [API Keys page](https://templateson.com/app/keys?ref=github&utm_source=github&utm_medium=readme&utm_campaign=getting_started)
 2. Click **"Create New API Key"**
 3. Copy your API key (it will only be shown once!)
 4. Store it securely - you'll use it for authentication
@@ -242,7 +242,7 @@ Template mode allows you to create reusable templates with dynamic variables. Th
 
 ### Creating a Template
 
-1. Go to [Templates Dashboard](https://templateson.com/app/templates)
+1. Go to [Templates Dashboard](https://templateson.com/app/templates?ref=github&utm_source=github&utm_medium=readme&utm_campaign=template_mode)
 2. Click **"Create Template"**
 3. Design your template using:
    - **AI Designer**: Describe what you want, AI generates it
@@ -462,7 +462,7 @@ Response:
 
 ## ⚡ Rate Limits
 
-Rate limits depend on your subscription plan, see [Pricing Page](https://templateson.com/pricing)
+Rate limits depend on your subscription plan, see [Pricing Page](https://templateson.com/pricing?ref=github&utm_source=github&utm_medium=readme&utm_campaign=rate_limits)
 
 Exceeded limits return `429 Too Many Requests` error.
 
@@ -479,10 +479,10 @@ X-RateLimit-Reset: 1640995200
 
 Templates On integrates seamlessly with popular automation platforms:
 
-- **Zapier** - [View Guide](https://templateson.com/docs/zapier)
-- **Make (Integromat)** - [View Guide](https://templateson.com/docs/make)
-- **n8n** - [View Guide](https://templateson.com/docs/n8n)
-- **REST API** - [View Documentation](https://templateson.com/docs/api)
+- **Zapier** - [View Guide](https://templateson.com/docs/zapier?ref=github&utm_source=github&utm_medium=readme&utm_campaign=integrations)
+- **Make (Integromat)** - [View Guide](https://templateson.com/docs/make?ref=github&utm_source=github&utm_medium=readme&utm_campaign=integrations)
+- **n8n** - [View Guide](https://templateson.com/docs/n8n?ref=github&utm_source=github&utm_medium=readme&utm_campaign=integrations)
+- **REST API** - [View Documentation](https://templateson.com/docs/api?ref=github&utm_source=github&utm_medium=readme&utm_campaign=integrations)
 
 ---
 
@@ -516,11 +516,11 @@ Templates On integrates seamlessly with popular automation platforms:
 
 ## 📚 Additional Resources
 
-- 🌐 [Website](https://templateson.com)
-- 📖 [Full Documentation](https://templateson.com/docs)
-- 🎨 [Template Gallery](https://templateson.com/templates)
-- 💰 [Pricing](https://templateson.com/pricing)
-- 📧 [Contact Support](https://templateson.com/contact)
+- 🌐 [Website](https://templateson.com?ref=github&utm_source=github&utm_medium=readme&utm_campaign=additional_resources)
+- 📖 [Full Documentation](https://templateson.com/docs?ref=github&utm_source=github&utm_medium=readme&utm_campaign=additional_resources)
+- 🎨 [Template Gallery](https://templateson.com/templates?ref=github&utm_source=github&utm_medium=readme&utm_campaign=additional_resources)
+- 💰 [Pricing](https://templateson.com/pricing?ref=github&utm_source=github&utm_medium=readme&utm_campaign=additional_resources)
+- 📧 [Contact Support](https://templateson.com/contact?ref=github&utm_source=github&utm_medium=readme&utm_campaign=additional_resources)
 
 ---
 
@@ -531,7 +531,7 @@ Need help? We're here for you!
 - **Email**: [support@templateson.com](mailto:support@templateson.com)
 - **Twitter**: [@TemplatesOn](https://twitter.com/TemplatesOn)
 - **GitHub Issues**: [Report a bug](https://github.com/mazin01/templates-on-api/issues)
-- **Contact Form**: [templateson.com/contact](https://templateson.com/contact)
+- **Contact Form**: [templateson.com/contact](https://templateson.com/contact?ref=github&utm_source=github&utm_medium=readme&utm_campaign=support)
 
 ---
 
@@ -550,5 +550,5 @@ MIT License - feel free to use Templates On in your projects!
 <div align="center">
   <strong>Built with ❤️ for developers and automation enthusiasts</strong>
   <br>
-  <a href="https://templateson.com">Get Started →</a>
+  <a href="https://templateson.com?ref=github&utm_source=github&utm_medium=readme&utm_campaign=footer">Get Started →</a>
 </div>
